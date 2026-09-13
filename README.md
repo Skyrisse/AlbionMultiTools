@@ -23,19 +23,20 @@
 
 ### РАСЧЕТЫ
 - **Сумма минус %** — быстрый расчёт цены с учётом процента (например, налога)
-- **Делёжка** — список отсканированных значений серебра, сумма и деление на N человек, можно отсканировать так же как и локацию, сумма автоматически заполнится
+- **Делёжка** — список отсканированных значений серебра, сумма и деление на N человек
 
 ### АВТОР
-- Контакты автора: **Discord: Crulich**, **Albion Online: Crulich** 
+- Контакты автора: **Discord: Crulich**, **Albion Online: Crulich** (копирование в один клик)
 - **«Уже поддержали»** — окно со списком поддержавших и предметами
-- **Обновления** — кнопка проверки + автопроверка при запуске; 
+- **Обновления** — кнопка проверки + автопроверка при запуске; скачивание с проверкой SHA-256 и самозамена exe (`config.json` и `license.dat` сохраняются)
 
 ## Особенности
 
 - **Полностью офлайн** — база зон и OCR в комплекте, интернет нужен только для проверки обновлений (можно отключить)
 - **9 языков интерфейса** — EN, RU, PL, UK, KK, ZH, FR, DE, IT
 - **Трей** — сворачивание в системный трей
-- Настройки, позиции окон и введённые данные сохраняются
+- **Персональная лицензия** — ключ привязан к железу (HWID), работает только на активированном устройстве
+- Настройки, позиции окон и введённые данные сохраняются в `config.json`
 
 ## Системные требования
 
@@ -46,3 +47,13 @@
 
 - Discord: **Crulich**
 - Albion Online: **Crulich**
+
+## Скриншоты
+
+
+![Overlay](https://raw.githubusercontent.com/Skyrisse/AlbionMultiTools/main/screenshots/overlay_outpost.png)
+![Overlay zone](https://raw.githubusercontent.com/Skyrisse/AlbionMultiTools/main/screenshots/overlay_zone.png)
+![Scanner](https://raw.githubusercontent.com/Skyrisse/AlbionMultiTools/main/screenshots/windows_scanner.png)
+![Fame tomes](https://raw.githubusercontent.com/Skyrisse/AlbionMultiTools/main/screenshots/tab_fame.png)
+![Calculations](https://raw.githubusercontent.com/Skyrisse/AlbionMultiTools/main/screenshots/tab_calc.png)
+![Author](https://raw.githubusercontent.com/Skyrisse/AlbionMultiTools/main/screenshots/tab_author.png)
