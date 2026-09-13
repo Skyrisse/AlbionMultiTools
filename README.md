@@ -45,10 +45,3 @@ python app.py
 | `overlay_alpha`, `overlay_scale`, `overlay_x/y_offset` | Вид и позиция оверлея |
 | `click_mode_enabled`, `trigger_button` | Скан по клику (`middle`, `right`, …) |
 | `min_scan_interval_ms` | Минимальный интервал между сканами |
-
-## Что не реализовано (в отличие от оригинала)
-
-- Распознавание таймеров порталов (ONNX-модель `timer_ctc.onnx` скопирована в
-  `data\`, но не используется)
-- Телеметрия и интеграция с portaler (токены в конфиг не копировались)
-- Настройка области миникарты через GUI — правится в `config.json`
