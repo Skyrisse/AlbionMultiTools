@@ -58,6 +58,8 @@
 
 ## Скриншоты
 
+![Builds](https://raw.githubusercontent.com/Skyrisse/AlbionMultiTools/main/screenshots/tab_builds.png)
+
 
 ![Overlay](https://raw.githubusercontent.com/Skyrisse/AlbionMultiTools/main/screenshots/overlay_outpost.png)
 ![Overlay zone](https://raw.githubusercontent.com/Skyrisse/AlbionMultiTools/main/screenshots/overlay_zone.png)
